@@ -10,3 +10,5 @@ twine
 grip
 xarray
 earthengine-api
+geemap
+git+https://github.com/kaust-halo/geeet
